@@ -1,0 +1,6 @@
+torch
+torch_geometric
+rdkit
+gradio
+huggingface_hub
+numpy

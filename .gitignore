@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# Checkpoints are hosted on Hugging Face Hub (see README) — don't commit large
+# .pt files to GitHub directly. Remove these two lines if you want to track
+# them with Git LFS instead.
+checkpoints/*.pt
+*.pt
