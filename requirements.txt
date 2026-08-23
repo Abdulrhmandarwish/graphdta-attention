@@ -1,6 +1,6 @@
 torch
 torch_geometric
 rdkit
-gradio
+streamlit
 huggingface_hub
 numpy

@@ -3,9 +3,8 @@ title: GraphDTA Binding Affinity Predictor
 emoji: 🧬
 colorFrom: blue
 colorTo: green
-sdk: gradio
-sdk_version: 4.44.0
-app_file: app.py
+sdk: streamlit
+app_file: streamlit_app.py
 pinned: false
 ---
 
