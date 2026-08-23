@@ -37,8 +37,7 @@ learning rates/schedules not reproduced here).
 
 ## Live Demo
 
-[Hugging Face Space](#) — _add the link once deployed_
-
+link: https://graphdta-attention-d2cmsqzdvbnqzvspqtzuzk.streamlit.app/
 Model checkpoints: [huggingface.co/Abdulrhman2002/graphdta-checkpoints](https://huggingface.co/Abdulrhman2002/graphdta-checkpoints)
 
 ## Running Locally
